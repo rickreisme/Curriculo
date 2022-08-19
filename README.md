@@ -1,0 +1,4 @@
+# Currículo
+
+<h3>Meu currículo profissional em formato de site HTML. Desenvolvido com a ajude de conhecimentos vistos na atividade prática do curso Introdução a HTML e CSS
+ da DNC.</h3>
