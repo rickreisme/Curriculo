@@ -12,6 +12,7 @@
     margin: 0 auto;
     text-align: center;
     color: rgb(255, 255, 255);
+    border-radius: 15px;
 }
 #nameAndTitle h1, h2, h3{
     margin: 0;
