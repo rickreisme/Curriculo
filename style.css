@@ -1,0 +1,66 @@
+#header{
+    background-color:rgb(33, 31, 31);
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 12px;
+
+}
+#nameAndTitle{
+    background-color: green;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    border-radius: 15px;
+}
+#nameAndTitle h1, h2, h3{
+    margin: 0;
+    color: white;
+    text-transform: uppercase;
+}
+body{
+    background-color: black;
+}
+h1, h3{
+    text-transform: uppercase;
+    color: rgb(10, 237, 10);
+}
+#contact, #socials, #skill{
+    list-style-type: none;
+}
+#contact i{
+    width: 30px;
+}
+#container{
+    display: grid;
+    grid-template-columns: 30% auto;
+    grid-column-gap: 20px;
+}
+#sidebar, #content{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+.card h3{
+    font-family: 'Hubballi', cursive;
+}
+.card{
+    font-family: 'Montserrat', cursive;
+    color: white;
+    border: 1px solid gray;
+    border-radius: 15px;
+    padding: 20px;
+}
+a:active{
+    color: white;
+}
+a:visited{
+    color: white;
+}
+a:hover{
+    color: green;
+}
+i{
+    color: rgb(10, 237, 10);;
+}
