@@ -26,7 +26,7 @@ h1, h3{
     text-transform: uppercase;
     color: rgb(10, 237, 10);
 }
-#contact, #socials, #skill{
+#contact, #socials, #skill, #acad{
     list-style-type: none;
 }
 #contact i{
@@ -63,4 +63,8 @@ a:hover{
 }
 i{
     color: rgb(10, 237, 10);;
+}
+#acad, #contact, #socials, #skill{
+    margin-left: 3px;
+    margin-right: 3px;
 }
